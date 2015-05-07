@@ -6,8 +6,6 @@ jQuery(document).ready(function($) {
                 var height = $(this).attr("data-height");
 
                 $(this).css({'width': width + 'px', 'height': height + 'px'});
-
-                //console.log(src + " initially set");
         });
 
         checkPlaceholderImage();
