@@ -3,7 +3,7 @@
 /*
 * Plugin Name: Image Loading WYNI
 * Author: Keegan Berry
-* Author URI: http://keeg.me
+* Author URI: http://keeganberry.com
 * Description: Modifies post content so that images will instead load as you scroll to them
 */
 
